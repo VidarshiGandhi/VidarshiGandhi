@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VidarshiGandhi
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on Web Application Projects
